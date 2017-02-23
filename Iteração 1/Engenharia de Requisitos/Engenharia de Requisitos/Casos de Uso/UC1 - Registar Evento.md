@@ -14,19 +14,19 @@ O sistema regista a atribuição de candidaturas.
 
 ##Formato completo
 ###Ator principal
-Gestor de eventos
+*Gestor de eventos
     
 
 ###Partes interessadas e seus interesses
-Organizador: Pretende saber quais os eventos que organiza
-Gestor de eventos: Pretende criar eventos
-Centro de eventos Pretende ter registo dos eventos cirados
+*Organizador: Pretende saber quais os eventos que organiza
+*Gestor de eventos: Pretende criar eventos
+*Centro de eventos Pretende ter registo dos eventos criados
 
 ###Pré-condições
-Utilizador registado no sistema 
+*Utilizador registado no sistema 
 
 ###Pós-condições
-Evento registado
+*Evento registado
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
@@ -40,22 +40,31 @@ Evento registado
 
 ###Extensões (ou fluxos alternativos)
 *a. O utilizador cancela o registo de eventos
-	1. O caso de uso termina.
+
+1. O caso de uso termina.
+
 4a. Dados mínimos obrigatórios em falta.
-	1. O sistema informa quais os dados em falta
-	2. O utilizador fornece os dados (passo 3)
-		2a. O utilizador não fornece os dados. O caso de uso termina
+
+1. O sistema informa quais os dados em falta
+
+2. O utilizador fornece os dados (passo 3)
+
+	2a. O utilizador não fornece os dados. O caso de uso termina
+
 4b. Dados introduzidos inválidos	
-	1. O sistema informa o utilizador para o facto.
-	2. O utilizador altera dos dados.
-		2a. O utilizador não altera dos dados. O caso de uso termina.
+
+1. O sistema informa o utilizador para o facto.
+
+2. O utilizador altera dos dados.
+
+	2a. O utilizador não altera dos dados. O caso de uso termina.
 
 ##Requisitos especiais
-**
+*
 ##Lista de variações em tecnologias e dados
-**
+*
 ##Frequência de Ocorrência
-**
+*
 ##Questões em aberto
 * Alguém deve ser notificado quando se regista um evento? 
 * Qual a frequência desta ocorrencia?
