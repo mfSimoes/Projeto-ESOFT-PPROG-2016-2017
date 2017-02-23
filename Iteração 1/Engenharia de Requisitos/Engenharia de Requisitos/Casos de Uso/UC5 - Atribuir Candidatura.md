@@ -1,10 +1,10 @@
 # UC 5 - Atribuir candidaturas para decisão
 
 ##Formato breve
-O utilizador incia no sistema o processo de atribuição de candidaturas para decisão.
+O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
 O sistema pede os dados do FAE (nome e e-mail do FAE).
-O ulitizador fornece os dados requeridos.
-O sitema valida e pede confirmação.
+O utilizador fornece os dados requeridos.
+O sistema valida e pede confirmação.
 O utilizador confirma.
 O sistema regista a atribuição de candidaturas.
 
@@ -29,10 +29,10 @@ Candidaturas atribuidas para decisão
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1. O utilizador incia no sistema o processo de atribuição de candidaturas para decisão.
+1. O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
 2. O sistema pede os dados do FAE (nome e e-mail do FAE).
-3. O ulitizador fornece os dados requeridos.
-4. O sitema valida e pede confirmação.
+3. O utilizador fornece os dados requeridos.
+4. O sistema valida e pede confirmação.
 5. O utilizador confirma.
 6. O sistema regista a atribuição de candidaturas.
     
@@ -43,10 +43,10 @@ Candidaturas atribuidas para decisão
 4a. Dados mínimos obrigatórios em falta.
 	1. O sistema informa quais os dados em falta
 	2. O utilizador fornece os dados (passo 3)
-		2a. O ultizador não fornece os dados. O caso de uso termina
+		2a. O utilizador não fornece os dados. O caso de uso termina
 4b. Dados introduzidos inválidos	
 	1. O sistema informa o utilizador para o facto.
-	2. O ultiziador altera dos dados.
+	2. O utilizador altera dos dados.
 		2a. O utilizador não altera dos dados. O caso de uso termina.
 
 ##Requisitos especiais
