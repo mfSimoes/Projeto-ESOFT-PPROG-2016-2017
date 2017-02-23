@@ -9,8 +9,7 @@ O utilizador confirma.
 O sistema regista a atribuição de candidaturas.
 
 ##SSD FORMATO BREVE
-********
-
+![uc 5 formato breve.png](https://bitbucket.org/repo/goXzaB/images/189764153-uc%205%20formato%20breve.png)
 
 ##Formato completo
 ###Ator principal
