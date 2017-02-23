@@ -18,8 +18,8 @@
 
 **Período** – Tempo de realização do evento;
 
-Software OO – Orientado a objetos;
+**Software OO** – Orientado a objetos;
 
-Stands – Espaço ocupado pelas empresas participantes no evento;
+**Stands** – Espaço ocupado pelas empresas participantes no evento;
 
-Utilizador – Pessoa registada no sistema;
+**Utilizador** – Pessoa registada no sistema;
