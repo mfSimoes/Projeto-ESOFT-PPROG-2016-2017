@@ -15,9 +15,8 @@ O utilizador confirma os dados e o sistema regista os utilizadores selecionados 
 Gestor de eventos
 
 ###Partes interessadas e seus interesses
-
-    * Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
-    * Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
+* Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
+* Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
 * Gestor de eventos: pretende confirmar o registo de utilizadores no sistema
 
 ###Pré-condições
