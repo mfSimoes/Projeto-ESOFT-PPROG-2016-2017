@@ -1,10 +1,10 @@
 # UC 1 - Registar evento
 
 ##Formato breve
-O utilizador incia no sistema o processo de registo de eventos
+O utilizador inicia no sistema o processo de registo de eventos
 O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
-O ulitizador fornece os dados requeridos.
-O sitema valida e pede confirmação.
+O utilizador fornece os dados requeridos.
+O sistema valida e pede confirmação.
 O utilizador confirma.
 O sistema regista a atribuição de candidaturas.
 
@@ -30,10 +30,10 @@ Evento registado
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1. O utilizador incia no sistema o processo de atribuição de candidaturas para decisão.
+1. O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
 2. O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
-3. O ulitizador fornece os dados requeridos.
-4. O sitema valida e pede confirmação.
+3. O utilizador fornece os dados requeridos.
+4. O sistema valida e pede confirmação.
 5. O utilizador confirma.
 6. O sistema regista a atribuição de candidaturas.
     
