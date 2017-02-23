@@ -14,19 +14,19 @@ O sistema regista a atribuição de candidaturas.
 
 ##Formato completo
 ###Ator principal
-*Gestor de eventos
+* Gestor de eventos
     
 
 ###Partes interessadas e seus interesses
 *Organizador: Pretende saber quais os eventos que organiza
-*Gestor de eventos: Pretende criar eventos
-*Centro de eventos Pretende ter registo dos eventos criados
+* Gestor de eventos: Pretende criar eventos
+* Centro de eventos Pretende ter registo dos eventos criados
 
 ###Pré-condições
-*Utilizador registado no sistema 
+* Utilizador registado no sistema 
 
 ###Pós-condições
-*Evento registado
+* Evento registado
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
