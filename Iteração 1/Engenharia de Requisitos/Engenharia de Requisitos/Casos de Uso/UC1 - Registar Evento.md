@@ -1,4 +1,4 @@
-# UC 6 - Registar evento
+# UC 1 - Registar evento
 
 ##Formato breve
 O utilizador incia no sistema o processo de registo de eventos
