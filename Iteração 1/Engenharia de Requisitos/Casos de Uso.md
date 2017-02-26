@@ -17,5 +17,3 @@
 - [UC6 - Registar Utilizador](Engenharia de Requisitos/Casos de Uso/UC6 - Registar Utilizador)
 
 - [UC7 - Confirmar registo de utilizador](Engenharia de Requisitos/Casos de Uso/UC7 - Confirmar Registo do utilizador)
-
-- [UC8 - Decidir Candidatura](Engenharia de Requisitos/Casos de Uso/UC8 - Decidir Candidatura)
