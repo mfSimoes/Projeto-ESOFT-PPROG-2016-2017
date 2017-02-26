@@ -10,7 +10,7 @@
 
 - [UC3 - Fazer Candidatura ao evento](Engenharia de Requisitos/Casos de Uso/UC3 - Fazer Candidatura ao evento)
 
-- [UC4 - Definir Representante do Evento](Engenharia de Requisitos/Casos de Uso/UC4 - Definir representante do evento)
+- [UC4 - Decidir Candidatura](Engenharia de Requisitos/Casos de Uso/UC4 - Decidir Candidatura)
 
 - [UC5 - Atribuir Candidatura](Engenharia de Requisitos/Casos de Uso/UC5 - Atribuir Candidatura)
 
