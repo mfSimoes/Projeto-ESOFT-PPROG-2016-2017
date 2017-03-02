@@ -11,6 +11,7 @@ O FAE confirma.
 O sistema regista a decisão.
 
 ##SSD FORMATO BREVE
+![decidir candidatura ssd breve.jpg](https://bitbucket.org/repo/goXzaB/images/2247477593-decidir%20candidatura%20ssd%20breve.jpg)
 
 ##Formato completo
 ###Ator principal
