@@ -8,10 +8,11 @@ O sistema fornece os utilizadores que podem ser FAE.
 O organizador seleciona o FAE.
 O sistema fornece a informação acerca do FAE e pede confirmação.
 O organizador confirma.
-O sistema regista o FAE no sistema.
+O sistema regista o FAE no sistema e informa do sucesso da operação.
 
 ##	SSD de formato breve
 
+![SD - UC2.jpg](https://bitbucket.org/repo/goXzaB/images/3634720970-SD%20-%20UC2.jpg)
  
 ##	Formato completo
 ###Ator principal
@@ -39,7 +40,7 @@ O sistema regista o FAE no sistema.
 5. O organizador seleciona o FAE.
 6. O sistema fornece a informação acerca do FAE e pede confirmação.
 7. O organizador confirma.
-8. O sistema regista o FAE no sistema..
+8. O sistema regista o FAE no sistema e informa do sucesso da operação.
 
 
 ###Extensões (ou fluxos alternativos)
