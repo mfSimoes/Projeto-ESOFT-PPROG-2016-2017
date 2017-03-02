@@ -6,10 +6,11 @@ O sistema pede os dados necessários para fazer a candidatura da empresa para o 
 O representante do participante fornece os dados requeridos.
 O sistema valida os dados e pede confirmação.
 O representante do participante confirma.
-O sistema regista a candidatura no sistema.
+O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 ##	SSD de formato breve
 
+![SD - UC3.jpg](https://bitbucket.org/repo/goXzaB/images/3110758728-SD%20-%20UC3.jpg)
  
 ##	Formato completo
 ###Ator principal
@@ -34,7 +35,7 @@ O sistema regista a candidatura no sistema.
 3.O representante do participante fornece os dados requeridos.
 4.O sistema valida os dados e pede confirmação.
 5.O representante do participante confirma.
-6.O sistema regista a candidatura no sistema.
+6.O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 
 ###Extensões (ou fluxos alternativos)
