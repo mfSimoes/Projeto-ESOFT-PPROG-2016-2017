@@ -13,19 +13,19 @@ O sistema regista a atribuição de candidaturas.
 
 ##Formato completo
 ###Ator principal
-*Organizador
+* Organizador
     
 
 ###Partes interessadas e seus interesses
-*Organizador: Pretende atribuir candidaturas aos FAE para este decidir se são aceites ou recusadas
-*FAE: Pretende saber quais as candidaturas que deve avaliar
+* Organizador: Pretende atribuir candidaturas aos FAE para este decidir se são aceites ou recusadas
+* FAE: Pretende saber quais as candidaturas que deve avaliar
 
 ###Pré-condições
-*Utilizador registado no sistema como organizador
-*FAE registado no sistema   
+* Utilizador registado no sistema como organizador
+* FAE registado no sistema   
 
 ###Pós-condições
-*Candidaturas atribuidas para decisão 
+* Candidaturas atribuidas para decisão 
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
