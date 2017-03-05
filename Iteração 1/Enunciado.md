@@ -8,7 +8,9 @@ Numa fase posterior à criação do evento no sistema, um dos organizadores defi
 
 O representante do participante fará candidatura a evento.
 
-Um dos organizadores atribui aos FAE as candidaturas para decisão. Para cada candidatura, os FAE indicam no sistema se esta foi aceite ou recusada, juntamente com um breve texto justificativo. É necessário que todos os gestores de eventos, organizadores, FAE e participantes estejam registados no sistema como utilizadores. Para tal, o utilizador não registado cria o seu perfil de utilizador indicando o nome, endereço de email e credenciais de acesso (password é armazenada cifrada). Um gestor de eventos confirma posteriormente o registo.
+Um dos organizadores atribui aos FAE as candidaturas para decisão. Para cada candidatura, os FAE indicam no sistema se esta foi aceite ou recusada, juntamente com um breve texto justificativo.
+
+É necessário que todos os gestores de eventos, organizadores, FAE e participantes estejam registados no sistema como utilizadores. Para tal, o utilizador não registado cria o seu perfil de utilizador indicando o nome, endereço de email e credenciais de acesso (password é armazenada cifrada). Um gestor de eventos confirma posteriormente o registo.
 
 O núcleo principal do software deve ser implementado em Java. Com o intuito de aumentar a manutenibilidade do software, devem ser adotadas boas práticas de análise e design de software OO.
 
