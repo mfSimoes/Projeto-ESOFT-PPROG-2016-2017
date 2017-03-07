@@ -34,23 +34,21 @@ Categoria: Conceitos
 * Tem Registo: Utilizadores
 
 ###Decisão
-* De: candidatura
+* De: Candidatura
 * Feita por: FAE
-* Faz parte: evento
+* Faz parte de: Evento
 
 ###Evento
-* Decorre: Centro de Eventos
-* É criada: Gestor de Eventos
-* É organizada por: Organizadores
+
 * Ocorre em: Stands
-* Tem: Organizadores, FAE, Representantes de participantes
+
 
 ###FAE
 * Faz: decisão
 * Decide: candidatura
 * É um: utilizador
 * Pertence: ao evento
-* É definido por: organizador
+
 
 ###Gestor de eventos
 * Cria: evento
@@ -62,7 +60,8 @@ Categoria: Conceitos
 * Define: FAE
 * Atribui: Candidatura
 * É um: Utilizador
-* É definido por: Gestor de exposição
+
+* Organiza: Evento
 
 ###Representante
 * Elabora: Candidatura
@@ -70,12 +69,9 @@ Categoria: Conceitos
 * Representa: Participante (empresa)
 
 ###Utilizador
-* Pode ser: Organizador
-* Pode ser: Gestor de Exposições
-* Pode ser: FAE
-* Pode ser: Representante
+
 * Pertence a: Centro de eventos
-* Confirmado por: gestor de exposições
+
 
 
 
