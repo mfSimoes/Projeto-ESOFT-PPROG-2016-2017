@@ -30,7 +30,7 @@ O sistema regista a atribuição de candidaturas.
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1. O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
+1. O utilizador inicia no sistema o processo de registo de eventos.
 2. O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
 3. O utilizador fornece os dados requeridos.
 4. O sistema valida e pede confirmação.
