@@ -1,12 +1,12 @@
 # UC 1 - Registar evento
 
 ##Formato breve
-O utilizador inicia no sistema o processo de registo de eventos
+O gestor de eventos inicia no sistema o processo de registo de eventos
 O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
-O utilizador fornece os dados requeridos.
+O gestor fornece os dados requeridos.
 O sistema valida e pede confirmação.
-O utilizador confirma.
-O sistema regista a atribuição de candidaturas.
+O gestor confirma.
+O sistema regista a criação do evento.
 
 ##SSD FORMATO BREVE
 ![UC1 formato breve - criar evento.png](https://bitbucket.org/repo/goXzaB/images/2163320165-UC1%20formato%20breve%20-%20criar%20evento.png)
@@ -30,12 +30,12 @@ O sistema regista a atribuição de candidaturas.
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1. O utilizador inicia no sistema o processo de registo de eventos.
+1. O gestor de eventos inicia no sistema o processo de registo de eventos.
 2. O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
-3. O utilizador fornece os dados requeridos.
+3. O gestor fornece os dados requeridos.
 4. O sistema valida e pede confirmação.
-5. O utilizador confirma.
-6. O sistema regista a atribuição de candidaturas.
+5. O gestor confirma.
+6. O sistema regista a criação do evento.
     
 
 ###Extensões (ou fluxos alternativos)
