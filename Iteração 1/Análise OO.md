@@ -9,13 +9,13 @@ Categoria: Conceitos
 +	**Produtos ou serviços relacionados com transações: ** Evento
 +	**Registos (de transações): ** Registo de utilizadores
 +	**Papéis das pessoas:** Utilizador, Organizador, FAE, Representante do participante, Gestor de eventos
-+	**Lugares: ** Centro de eventos do norte do país
++	**Lugares: ** Centro de eventos do norte do país, Local, Stands
 +	**Eventos: ** Evento
 +	**Objetos físicos:** 
 +	**Especificações e descrições: **
 +	**Catálogos: **
-+	**Conjuntos:** Centro de eventos
-+	**Elementos de conjuntos: ** Organizador, FAE
++	**Conjuntos:** Organizador, FAE
++	**Elementos de conjuntos: ** 
 +	**(Outras) Organizações: ** Empresas participantes
 +	**Outros sistemas (externos): **
 +	**Registos (financeiros), de trabalho, contractos, documentos legais: ** Candidatura
@@ -23,12 +23,8 @@ Categoria: Conceitos
 +	**Documentos referidos/para executar as tarefas:** Candidatura
 
 ##	Racional sobre identificação de associações entre classes
-
 ###Candidatura
 * A um: Evento
-* Feita por: Representante do participantes
-* Atribuída por: Organizador
-* Decidida por: FAE 
 
 ###Centro de eventos
 * Organiza: Evento
@@ -36,11 +32,10 @@ Categoria: Conceitos
 
 ###Decisão
 * De: Candidatura
-* Feita por: FAE
 * Faz parte de: Evento
 
 ###Evento
-* Ocorre em: Stands
+* Ocorre em: Local
 
 
 ###FAE
@@ -68,7 +63,6 @@ Categoria: Conceitos
 * Representa: Participante (empresa)
 
 ###Utilizador
-
 * Pertence a: Centro de eventos
 
 
