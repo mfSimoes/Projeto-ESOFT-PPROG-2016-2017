@@ -29,5 +29,5 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 
 ## Diagrama de Sequência ##
-
+![UC1 - SD.png](https://bitbucket.org/repo/goXzaB/images/30410792-UC1%20-%20SD.png)
 ## Diagrama de Classes ##
