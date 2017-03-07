@@ -23,6 +23,7 @@ Categoria: Conceitos
 +	**Documentos referidos/para executar as tarefas:** Candidatura
 
 ##	Racional sobre identificação de associações entre classes
+
 ###Candidatura
 * A um: Evento
 * Feita por: Representante do participantes
@@ -39,7 +40,6 @@ Categoria: Conceitos
 * Faz parte de: Evento
 
 ###Evento
-
 * Ocorre em: Stands
 
 
@@ -60,7 +60,6 @@ Categoria: Conceitos
 * Define: FAE
 * Atribui: Candidatura
 * É um: Utilizador
-
 * Organiza: Evento
 
 ###Representante
