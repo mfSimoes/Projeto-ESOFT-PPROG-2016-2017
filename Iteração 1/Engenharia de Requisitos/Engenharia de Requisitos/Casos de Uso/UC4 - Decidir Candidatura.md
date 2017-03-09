@@ -70,5 +70,4 @@ O sistema regista a decisão.
 * Mais alguém deve ser notificado quando se decide uma candidatura? 
 * Qual a frequência desta ocorrencia?
 * Pode-se alterar a decisão da candidatura?
-* Pode-se alterar candidaturas em qualquer altura?
 * Quais os dados minimos obrigatórios?
