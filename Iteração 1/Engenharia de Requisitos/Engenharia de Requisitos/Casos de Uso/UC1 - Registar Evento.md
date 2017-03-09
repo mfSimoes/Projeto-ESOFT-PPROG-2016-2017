@@ -1,8 +1,8 @@
 # UC 1 - Registar evento
 
 ##Formato breve
-O gestor de eventos inicia no sistema o processo de registo de eventos
-O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
+O gestor de eventos inicia no sistema o processo de registo de eventos.
+O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores).
 O gestor fornece os dados requeridos.
 O sistema valida e pede confirmação.
 O gestor confirma.
@@ -67,6 +67,7 @@ O sistema regista a criação do evento.
 *
 ##Questões em aberto
 * Alguém deve ser notificado quando se regista um evento? 
-* Qual a frequência desta ocorrencia?
+* Qual a frequência desta ocorrência?
 * Pode-se alterar a os dados do evento?
 * Pode-se registar eventos a qualquer altura?
+* O sistema pode fornecer ao gestor de eventos, os utilizadores que podem ser Organizadores? Se sim, quais os requisitos necessários para se ser organizador?
