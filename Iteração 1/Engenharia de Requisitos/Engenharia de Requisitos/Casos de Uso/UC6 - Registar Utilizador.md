@@ -13,8 +13,9 @@ Utilizador não registado
 
 ###Partes interessadas e seus interesses
 
-    *Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
-    *Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
+*Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
+
+*Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
 
 ###Pré-condições
 * Utilizador não autenticado
@@ -38,27 +39,26 @@ Utilizador não registado
 
 4a. Dados mínimos obrigatórios em falta.
 
-    1. O sistema informa quais os dados em falta.
+1. O sistema informa quais os dados em falta.
+2. O sistema permite a introdução dos dados em falta (passo 3)
 
-    2. O sistema permite a introdução dos dados em falta (passo 3)
-
-    2.a O utilizador (não registado) não altera os dados. O caso de uso termina.
+2.a O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 4b. O sistema detecta que os dados (ou algum subconjunto dos dados) introduzidos devem ser únicos e que já existem no sistema.
 
-    1. O sistema alerta o utilizador para o facto.
+1. O sistema alerta o utilizador para o facto.
 
-    2. O sistema permite a sua alteração (passo 3)
+2. O sistema permite a sua alteração (passo 3)
 
-    2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
+2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 4c. O sistema detecta que os dados introduzidos (ou algum subconjunto dos dados) são inválidos.
 
-    1. O sistema alerta o utilizador para o facto.
+1. O sistema alerta o utilizador para o facto.
 
-    2. O sistema permite a sua alteração (passo 3)
+2. O sistema permite a sua alteração (passo 3)
 
-    2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
+2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 
 ##Requisitos especiais
