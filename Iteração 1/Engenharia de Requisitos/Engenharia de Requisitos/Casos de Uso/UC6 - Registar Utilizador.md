@@ -42,7 +42,7 @@ Utilizador não registado
 1. O sistema informa quais os dados em falta.
 2. O sistema permite a introdução dos dados em falta (passo 3)
 
-2.a O utilizador (não registado) não altera os dados. O caso de uso termina.
+	2.a O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 4b. O sistema detecta que os dados (ou algum subconjunto dos dados) introduzidos devem ser únicos e que já existem no sistema.
 
@@ -50,7 +50,7 @@ Utilizador não registado
 
 2. O sistema permite a sua alteração (passo 3)
 
-2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
+	2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 4c. O sistema detecta que os dados introduzidos (ou algum subconjunto dos dados) são inválidos.
 
@@ -58,7 +58,7 @@ Utilizador não registado
 
 2. O sistema permite a sua alteração (passo 3)
 
-2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
+	2a. O utilizador (não registado) não altera os dados. O caso de uso termina.
 
 
 ##Requisitos especiais
