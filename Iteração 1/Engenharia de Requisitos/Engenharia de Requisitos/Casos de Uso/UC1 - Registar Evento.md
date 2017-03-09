@@ -18,7 +18,7 @@ O sistema regista a criação do evento.
     
 
 ###Partes interessadas e seus interesses
-*Organizador: Pretende saber quais os eventos que organiza
+* Organizador: Pretende saber quais os eventos que organiza
 * Gestor de eventos: Pretende criar eventos
 * Centro de eventos Pretende ter registo dos eventos criados
 
