@@ -1,11 +1,11 @@
 # UC 5 - Atribuir candidaturas para decisão
 
 ##Formato breve
-O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
+O organizador inicia no sistema o processo de atribuição de candidaturas para decisão.
 O sistema pede os dados do FAE (nome e e-mail do FAE).
-O utilizador fornece os dados requeridos.
+O organizador fornece os dados requeridos.
 O sistema valida e pede confirmação.
-O utilizador confirma.
+O organizador confirma.
 O sistema regista a atribuição de candidaturas.
 
 ##SSD FORMATO BREVE
@@ -29,16 +29,16 @@ O sistema regista a atribuição de candidaturas.
     
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1. O utilizador inicia no sistema o processo de atribuição de candidaturas para decisão.
+1. O organizador inicia no sistema o processo de atribuição de candidaturas para decisão.
 2. O sistema pede os dados do FAE (nome e e-mail do FAE).
-3. O utilizador fornece os dados requeridos.
+3. O organizador fornece os dados requeridos.
 4. O sistema valida e pede confirmação.
-5. O utilizador confirma.
+5. O organizador confirma.
 6. O sistema regista a atribuição de candidaturas.
     
 
 ###Extensões (ou fluxos alternativos)
-*a. O utilizador cancela a atribuição de candidaturas.
+*a. O organizador cancela a atribuição de candidaturas.
 
 1. O caso de uso termina.
 
@@ -46,17 +46,17 @@ O sistema regista a atribuição de candidaturas.
 
 1. O sistema informa quais os dados em falta
 
-2. O utilizador fornece os dados (passo 3)
+2. O organizador fornece os dados (passo 3)
 
-    2a. O utilizador não fornece os dados. O caso de uso termina
+    2a. O organizador não fornece os dados. O caso de uso termina
 
 4b. Dados introduzidos inválidos
 
-1. O sistema informa o utilizador para o facto.
+1. O sistema informa o organizador para o facto.
 
-2. O utilizador altera dos dados.
+2. O organizador altera dos dados.
 
-    2a. O utilizador não altera dos dados. O caso de uso termina.
+    2a. O organizador não altera dos dados. O caso de uso termina.
 
 ##Requisitos especiais
 -
@@ -69,3 +69,4 @@ O sistema regista a atribuição de candidaturas.
 * Qual a frequência desta ocorrencia?
 * Pode-se alterar a atribuição da candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
+* O sistema pode fornecer uma lista de FAEs?
