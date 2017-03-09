@@ -70,4 +70,4 @@ O sistema regista a criação do evento.
 * Qual a frequência desta ocorrência?
 * Pode-se alterar a os dados do evento?
 * Pode-se registar eventos a qualquer altura?
-* O sistema pode fornecer ao gestor de eventos, os utilizadores que podem ser Organizadores? Se sim, quais os requisitos necessários para se ser organizador?
+* O sistema pode fornecer ao gestor de eventos, os utilizadores que podem ser Organizadores? Se sim, quais os requisitos necessários para se ser organizador? Se não, qual a informação mínima para definir um Organizador (por exemplo: e-mail)?
