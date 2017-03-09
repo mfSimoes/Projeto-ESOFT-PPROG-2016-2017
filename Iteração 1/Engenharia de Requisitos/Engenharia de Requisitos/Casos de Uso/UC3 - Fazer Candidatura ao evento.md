@@ -73,3 +73,4 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 * Qual a frequência desta ocorrência?
 * Quais os requisitos para ser criar a candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
+* Há algum atributo que deve ser único? Qual?
