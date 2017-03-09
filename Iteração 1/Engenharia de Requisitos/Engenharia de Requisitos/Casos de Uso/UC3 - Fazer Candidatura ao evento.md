@@ -72,3 +72,4 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 * Alguém deve ser notificado quando se criar a candidatura? 
 * Qual a frequência desta ocorrência?
 * Quais os requisitos para ser criar a candidatura?
+* Pode-se alterar candidaturas em qualquer altura?
