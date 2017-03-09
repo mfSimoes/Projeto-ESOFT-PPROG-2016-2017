@@ -1,9 +1,9 @@
-# UC5 - Atribuir candidaturas para decisão
+# UC4 - Decidir candidatura
 
 ##Formato breve
 O FAE inicia no sistema o processo de decisão de candidaturas.
 O sistema lista as candidaturas para decisão.
-O FAE seleciona uma candidadura.
+O FAE seleciona uma candidatura.
 O sistema apresenta a candidatura, e pede uma decisão e um breve texto justificativo.
 O FAE aceita ou recusa a candidatura, e escreve um texto justificativo.
 O sistema valida e pede confirmação.
@@ -34,7 +34,7 @@ O sistema regista a decisão.
 ###Cenário de sucesso principal (ou fluxo básico)
 1. O FAE inicia no sistema o processo de decisão de candidaturas.
 2. O sistema lista as candidaturas para decisão.
-3. O FAE seleciona uma candidadura.
+3. O FAE seleciona uma candidatura.
 4. O sistema apresenta a candidatura, e pede uma decisão e um breve texto justificativo.
 5. O FAE aceita ou recusa a candidatura, e escreve um texto justificativo.
 6. O sistema valida e pede confirmação.
@@ -59,13 +59,6 @@ O sistema regista a decisão.
 
     2a. O utilizador não fornece os dados. O caso de uso termina
 
-6b. Dados introduzidos inválidos
-
-1. O sistema informa o utilizador para o facto.
-
-2. O utilizador altera dos dados.
-
-    2a. O utilizador não altera dos dados. O caso de uso termina.
 
 ##Requisitos especiais
 -
@@ -74,7 +67,7 @@ O sistema regista a decisão.
 ##Frequência de Ocorrência
 -
 ##Questões em aberto
-* Alguém deve ser notificado quando se decide uma candidatura? 
+* Mais alguém deve ser notificado quando se decide uma candidatura? 
 * Qual a frequência desta ocorrencia?
 * Pode-se alterar a decisão da candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
