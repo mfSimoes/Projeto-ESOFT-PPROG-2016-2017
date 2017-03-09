@@ -68,5 +68,4 @@ O sistema regista a atribuição de candidaturas.
 * Alguém deve ser notificado quando se atribui uma candidatura? 
 * Qual a frequência desta ocorrencia?
 * Pode-se alterar a atribuição da candidatura?
-* Pode-se alterar candidaturas em qualquer altura?
 * O sistema pode fornecer uma lista de FAEs?
