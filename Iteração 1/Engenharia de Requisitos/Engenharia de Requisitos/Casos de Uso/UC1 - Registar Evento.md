@@ -71,3 +71,4 @@ O sistema regista a criação do evento.
 * Pode-se alterar a os dados do evento?
 * Pode-se registar eventos a qualquer altura?
 * O sistema pode fornecer ao gestor de eventos, os utilizadores que podem ser Organizadores? Se sim, quais os requisitos necessários para se ser organizador? Se não, qual a informação mínima para definir um Organizador (por exemplo: e-mail)?
+* Há algum atributo que deve ser único? Qual?
