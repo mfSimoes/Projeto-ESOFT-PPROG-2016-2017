@@ -30,12 +30,12 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 
 ###Cenário de sucesso principal (ou fluxo básico)
-1.O representante do participante inicia no sistema o processo criação da candidatura.
-2.O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
-3.O representante do participante fornece os dados requeridos.
-4.O sistema valida os dados e pede confirmação.
-5.O representante do participante confirma.
-6.O sistema regista a candidatura no sistema e informa do sucesso da operação.
+1. O representante do participante inicia no sistema o processo criação da candidatura.
+2. O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
+3. O representante do participante fornece os dados requeridos.
+4. O sistema valida os dados e pede confirmação.
+5. O representante do participante confirma.
+6. O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 
 ###Extensões (ou fluxos alternativos)
