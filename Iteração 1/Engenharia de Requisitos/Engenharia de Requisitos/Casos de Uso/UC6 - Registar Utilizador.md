@@ -13,9 +13,9 @@ Utilizador não registado
 
 ###Partes interessadas e seus interesses
 
-*Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
+* Utilizador não registado: Pretende obter credenciais para poder aceder a funcionalidades específicas de utilizador registado.
 
-*Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
+* Centro de Eventos: Pretende criar e manter registo dos utilizadores de determinadas funcionalidades da aplicação.
 
 ###Pré-condições
 * Utilizador não autenticado
@@ -71,8 +71,9 @@ Utilizador não registado
 -
 
 ##Questões em aberto
-*O registo de utilizadores deve estar sempre disponível, mesmo que não haja eventos registados no sistema?
-*Quais são os dados obrigatórios para o registo de utilizadores?
-*Quais os dados que em conjunto permitem detectar a duplicação de utilizadores?*Como é que os utilizadores podem recuperar as credenciais de acesso?
-*Alguém deve ser notificado do registo de utilizador no sistema como, por exemplo, os organizadores de eventos que irão decorrer brevemente?
-*Qual a frequência de ocorrência deste caso de uso?
+* O registo de utilizadores deve estar sempre disponível, mesmo que não haja eventos registados no sistema?
+* Quais são os dados obrigatórios para o registo de utilizadores?
+* Quais os dados que em conjunto permitem detectar a duplicação de utilizadores?
+* Como é que os utilizadores podem recuperar as credenciais de acesso?
+* Alguém deve ser notificado do registo de utilizador no sistema como, por exemplo, os organizadores de eventos que irão decorrer brevemente?
+* Qual a frequência de ocorrência deste caso de uso?
