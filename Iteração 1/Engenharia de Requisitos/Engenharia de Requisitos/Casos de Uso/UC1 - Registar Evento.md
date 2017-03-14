@@ -2,9 +2,13 @@
 
 ##Formato breve
 O gestor de eventos inicia no sistema o processo de registo de eventos.
-O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores).
+O sistema pede os dados do evento (título, texto descritivo, periodo e local de realização).
 O gestor fornece os dados requeridos.
-O sistema valida e pede confirmação.
+O sistema apresenta uma lista de utilizadores que podem ser organizadores.
+O gestor de eventos seleciona os organizadores.
+O sistema pede confirmação dos organizadores
+O gestor de eventos confirma. 
+O sistema valida os organizadores e o evento e pede confirmação do evento.
 O gestor confirma.
 O sistema regista a criação do evento.
 
@@ -31,33 +35,32 @@ O sistema regista a criação do evento.
 
 ###Cenário de sucesso principal (ou fluxo básico)
 1. O gestor de eventos inicia no sistema o processo de registo de eventos.
-2. O sistema pede os dados do evento ( título, texto descritivo, periodo e local de realização, e organizadores)
+2. O sistema pede os dados do evento (título, texto descritivo, periodo e local de realização).
 3. O gestor fornece os dados requeridos.
-4. O sistema valida e pede confirmação.
-5. O gestor confirma.
-6. O sistema regista a criação do evento.
+4. O sistema apresenta uma lista de utilizadores que podem ser organizadores.
+5. O gestor de eventos seleciona os organizadores.
+6. O sistema pede confirmação dos organizadores
+7. O gestor de eventos confirma. 
+8. O sistema valida os organizadores e o evento e pede confirmação do evento.
+9. O gestor confirma.
+10. O sistema regista a criação do evento.
     
 
 ###Extensões (ou fluxos alternativos)
 *a. O utilizador cancela o registo de eventos
 
-1. O caso de uso termina.
+1. O caso de uso termina 
 
-4a. Dados mínimos obrigatórios em falta.
+8a. Dados mínimos obrigatórios em falta.
 
 1. O sistema informa quais os dados em falta
 
-2. O utilizador fornece os dados (passo 3)
+2. O gestor de eventos fornece os dados (passo 3)
 
 	2a. O utilizador não fornece os dados. O caso de uso termina
 
-4b. Dados introduzidos inválidos	
 
-1. O sistema informa o utilizador para o facto.
 
-2. O utilizador altera dos dados.
-
-	2a. O utilizador não altera dos dados. O caso de uso termina.
 
 ##Requisitos especiais
 *
@@ -72,3 +75,4 @@ O sistema regista a criação do evento.
 * Pode-se registar eventos a qualquer altura?
 * O sistema pode fornecer ao gestor de eventos, os utilizadores que podem ser Organizadores? Se sim, quais os requisitos necessários para se ser organizador? Se não, qual a informação mínima para definir um Organizador (por exemplo: e-mail)?
 * Há algum atributo que deve ser único? Qual?
+* Podem ocorrer eventos em simultâneo no mesmo local?
