@@ -70,3 +70,5 @@ Categoria: Conceitos
 
 
 ##	Diagrama de MD
+
+![Modelo de Dominio.jpg](https://bitbucket.org/repo/goXzaB/images/1928026189-Modelo%20de%20Dominio.jpg)
