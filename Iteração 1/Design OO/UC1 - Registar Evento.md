@@ -33,7 +33,7 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 
 ## Diagrama de Sequência ##
-![UC1 - SD.jpg](https://bitbucket.org/repo/goXzaB/images/473212063-UC1%20-%20SD.jpg)
+![UC1 - SD.jpg](https://bitbucket.org/repo/goXzaB/images/2332920383-UC1%20-%20SD.jpg)
 
 ## Diagrama de Classes ##
-![UC1 - CD.png](https://bitbucket.org/repo/goXzaB/images/2112319589-UC1%20-%20CD.png)
+![UC1 - CD.jpg](https://bitbucket.org/repo/goXzaB/images/3028935559-UC1%20-%20CD.jpg)
