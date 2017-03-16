@@ -16,7 +16,7 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 8. O sistema valida os organizadores e o evento e pede confirmação do evento. |Valida os dados?	|Evento	|IE: Validação local (ex: Dados do evento preenchidos)
 	|	|CentroEventos	|IE: Validação global
 9. O gestor confirma.|||
-10. O sistema regista a criação do evento. |Onde é registada a nova exposição?	|CentroEventos	| IE: O Centro de Eventos organiza eventos
+10. O sistema regista a criação do evento. |Onde é registado o novo evento?	|CentroEventos	| IE: O Centro de Eventos organiza eventos
 
 
 
