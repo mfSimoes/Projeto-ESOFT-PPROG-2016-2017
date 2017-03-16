@@ -12,7 +12,7 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 ##	SSD de formato breve
 
-![SD - UC3.jpg](https://bitbucket.org/repo/goXzaB/images/3110758728-SD%20-%20UC3.jpg)
+![UC3 - SD.jpg](https://bitbucket.org/repo/goXzaB/images/996923805-UC3%20-%20SD.jpg)
  
 ##	Formato completo
 ###Ator principal
