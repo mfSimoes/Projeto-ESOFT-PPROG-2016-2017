@@ -6,14 +6,14 @@ O sistema pede os dados do evento (título, texto descritivo, periodo e local de
 O gestor fornece os dados requeridos.
 O sistema apresenta uma lista de utilizadores que podem ser organizadores.
 O gestor de eventos seleciona os organizadores.
-O sistema pede confirmação dos organizadores
+O sistema pede confirmação dos organizadores.
 O gestor de eventos confirma. 
 O sistema valida os organizadores e o evento e pede confirmação do evento.
 O gestor confirma.
 O sistema regista a criação do evento.
 
 ##SSD FORMATO BREVE
-![UC1 formato breve - criar evento.png](https://bitbucket.org/repo/goXzaB/images/2163320165-UC1%20formato%20breve%20-%20criar%20evento.png)
+![formato breve - criar evento.jpg](https://bitbucket.org/repo/goXzaB/images/3991443459-formato%20breve%20-%20criar%20evento.jpg)
 
 
 ##Formato completo
