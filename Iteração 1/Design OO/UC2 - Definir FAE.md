@@ -8,7 +8,7 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 6. O sistema fornece a informação acerca do FAE e pede confirmação. | Possui a informaçao dos FAE? | CentroEventos |  |IE: Possui o registo de todos os utilizadores
 7. O organizador confirma.
 8. O sistema regista o FAE no sistema e informa do sucesso da operação. | Regista os FAE de cada evento? | Evento | IE: O evento possui informações sobre os seus FAE
- | | Centro eventos | IE: possui informações sobre todos os utilizadores que podem ser FAE.
+ | | CentroEventos | IE: possui informações sobre todos os utilizadores que podem ser FAE.
  | | FAE | Guarda os dados do utilizador
 
 ## Sistematização: ##
