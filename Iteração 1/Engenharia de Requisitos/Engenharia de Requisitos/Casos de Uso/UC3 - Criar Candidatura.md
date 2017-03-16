@@ -78,4 +78,5 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 * Quais os requisitos para ser criar a candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
 * Há algum atributo que deve ser único? Qual?
-*
+* Qual o critério para que o evento fique disponivel?
+* Pode-se mostrar todos os evento disponiveis do centro de eventos ao representante. Se não qual a condição da seleção dos eventos?
