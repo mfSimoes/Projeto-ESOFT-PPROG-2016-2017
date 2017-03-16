@@ -2,6 +2,8 @@
 
 ##	Formato breve
 O representante do participante inicia no sistema o processo criação da candidatura.
+O sistema mostra todos os eventos disponíveis.
+O representante do participante selecciona o evento a que quer criar a candidatura.
 O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
 O representante do participante fornece os dados requeridos.
 O sistema valida os dados e pede confirmação.
@@ -31,11 +33,13 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 ###Cenário de sucesso principal (ou fluxo básico)
 1. O representante do participante inicia no sistema o processo criação da candidatura.
-2. O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
-3. O representante do participante fornece os dados requeridos.
-4. O sistema valida os dados e pede confirmação.
-5. O representante do participante confirma.
-6. O sistema regista a candidatura no sistema e informa do sucesso da operação.
+2. O sistema mostra todos os eventos disponíveis.
+3. O representante do participante selecciona o evento a que quer criar a candidatura.
+4. O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
+5. O representante do participante fornece os dados requeridos.
+6. O sistema valida os dados e pede confirmação.
+7. O representante do participante confirma.
+8. O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 
 ###Extensões (ou fluxos alternativos)
@@ -43,7 +47,7 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 1. O caso de uso termina.
 
-4a. Dados mínimos obrigatórios em falta.
+6a. Dados mínimos obrigatórios em falta.
 
 1. O sistema informa quais os dados em falta
 
@@ -51,7 +55,7 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 	2a. O representante do participante não fornece os dados. O caso de uso termina
 
-4b. Dados introduzidos inválidos	
+6b. Dados introduzidos inválidos	
 
 1. O sistema informa o utilizador para o facto.
 
@@ -74,3 +78,4 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 * Quais os requisitos para ser criar a candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
 * Há algum atributo que deve ser único? Qual?
+*
