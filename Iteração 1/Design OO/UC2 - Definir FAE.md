@@ -27,6 +27,6 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 
 ## Diagrama de Sequência ##
-
+![UC 2 SSD completo.jpg](https://bitbucket.org/repo/goXzaB/images/4174370930-UC%202%20SSD%20completo.jpg)
 
 ## Diagrama de Classes ##
