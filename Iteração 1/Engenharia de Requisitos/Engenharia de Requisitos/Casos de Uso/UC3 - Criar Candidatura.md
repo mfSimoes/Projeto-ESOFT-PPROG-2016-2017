@@ -2,7 +2,7 @@
 
 ##	Formato breve
 O representante do participante inicia no sistema o processo criação da candidatura.
-O sistema mostra todos os eventos disponíveis.
+O sistema mostra todos os eventos disponíveis para a candidatura.
 O representante do participante selecciona o evento a que quer criar a candidatura.
 O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
 O representante do participante fornece os dados requeridos.
@@ -33,7 +33,7 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 
 ###Cenário de sucesso principal (ou fluxo básico)
 1. O representante do participante inicia no sistema o processo criação da candidatura.
-2. O sistema mostra todos os eventos disponíveis.
+2. O sistema mostra todos os eventos disponíveis para candidatura.
 3. O representante do participante selecciona o evento a que quer criar a candidatura.
 4. O sistema pede os dados necessários para fazer a candidatura da empresa para o evento.
 5. O representante do participante fornece os dados requeridos.
@@ -78,5 +78,4 @@ O sistema regista a candidatura no sistema e informa do sucesso da operação.
 * Quais os requisitos para ser criar a candidatura?
 * Pode-se alterar candidaturas em qualquer altura?
 * Há algum atributo que deve ser único? Qual?
-* Qual o critério para que o evento fique disponivel?
-* Pode-se mostrar todos os evento disponiveis do centro de eventos ao representante. Se não qual a condição da seleção dos eventos?
+* Qual o ccondição para que o evento fique disponível?
