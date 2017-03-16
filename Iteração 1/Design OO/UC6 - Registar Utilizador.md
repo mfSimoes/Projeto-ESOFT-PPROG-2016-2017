@@ -30,3 +30,4 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 ![UC6 - SD.jpg](https://bitbucket.org/repo/goXzaB/images/3653198012-UC6%20-%20SD.jpg)
 
 ## Diagrama de Classes ##
+![UC6 - CD.jpg](https://bitbucket.org/repo/goXzaB/images/2425411746-UC6%20-%20CD.jpg)
