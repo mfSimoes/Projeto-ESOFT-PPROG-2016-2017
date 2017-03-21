@@ -19,7 +19,7 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 
 Do racional resulta que as classes conceptuais promovidas a classes de software são:
 
-* Centro de eventos
+* CentroEventos
 * Candidatura
 * Evento
 
@@ -31,6 +31,8 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 
 ## Diagrama de Sequência ##
+
+![UC3 -SSD.jpg](https://bitbucket.org/repo/goXzaB/images/1223050962-UC3%20-SSD.jpg)
 
 
 ## Diagrama de Classes ##
