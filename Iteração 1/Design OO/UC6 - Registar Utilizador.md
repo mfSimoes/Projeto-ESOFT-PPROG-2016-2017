@@ -11,6 +11,8 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
  | | Utilizador | Validaçao local: tem os seus dados
 5. O utilizador confirma os dados inseridos | n/a ||
 6. O sistema regista o perfil do utilizador e informa do sucesso da operaçao | Quem regista o perfil?| CentroEventos | IE: no MD o centro de eventos tem registo do utilizador
+
+
 ## Sistematização: ##
 
 Do racional resulta que as classes conceptuais promovidas a classes de software são:
