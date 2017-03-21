@@ -6,7 +6,7 @@ Realização dos casos de uso
 
 - [UC2 - Definir FAE](Design OO/UC2 - Definir FAE)
 
-- [UC3 - Fazer Candidatura ao evento](Design OO/UC3 - Fazer Candidatura ao evento)
+- [UC3 - Fazer Candidatura ao evento](Design OO/UC3 - Criar Candidatura)
 
 - [UC4 - Decidir Candidatura](Design OO/UC4 - Decidir Candidatura)
 
