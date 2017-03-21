@@ -8,7 +8,7 @@
 
 - [UC2 - Definir FAE](Engenharia de Requisitos/Casos de Uso/UC2 - Definir FAE)
 
-- [UC3 - Fazer Candidatura ao evento](Engenharia de Requisitos/Casos de Uso/UC3 - Fazer Candidatura ao evento)
+- [UC3 - Fazer Candidatura ao evento](Engenharia de Requisitos/Casos de Uso/UC3 - Criar Candidatura)
 
 - [UC4 - Decidir Candidatura](Engenharia de Requisitos/Casos de Uso/UC4 - Decidir Candidatura)
 
