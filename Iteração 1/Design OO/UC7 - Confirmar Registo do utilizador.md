@@ -10,7 +10,7 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 3. O gestor de eventos seleciona os utilizadores pretendidos e submete-os ao sistema. | n/a| |
 4. O sistema solicita a confirmação | n/a | |
 5. O utilizador confirma os dados |n/a | |
-6. O sistema regista os utilizadores selecionados como confirmados e informa o Gestor de eventos do sucesso da operação. | Onde são guardados os perfis dos utilizadores?| CentroEventos: IE: O Centro de eventos possui informaçao sobre os utilizadores 
+6. O sistema regista os utilizadores selecionados como confirmados e informa o Gestor de eventos do sucesso da operação. | Onde são guardados os perfis dos utilizadores?| CentroEventos| IE: O Centro de eventos possui informaçao sobre os utilizadores 
 
 
 
