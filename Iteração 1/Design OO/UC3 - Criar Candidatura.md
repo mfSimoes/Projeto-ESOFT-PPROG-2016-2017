@@ -31,4 +31,3 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 
 ## Diagrama de Classes ##
-v
