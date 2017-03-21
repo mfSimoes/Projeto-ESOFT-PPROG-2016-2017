@@ -6,7 +6,7 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 --------------- | ---------------------- | -------- | ------------
 1. Um gestor de eventos solicita ao sistema o conjunto de utilizadores que efetuaram o registo e que ainda não foram confirmados no sistema. | n/a| |
 2. O sistema apresenta os dados solicitados ao gestor de eventos. | Possui informaçao sobre os utilizadores não registados? | CentroEventos | IE: O centro de eventos possui o registo dos utilizadores
- | |Utilizador| IE: O Utilizador possui a sua informação (eg: nome, e-mail)
+
 3. O gestor de eventos seleciona os utilizadores pretendidos e submete-os ao sistema. | n/a| |
 4. O sistema solicita a confirmação | n/a | |
 5. O utilizador confirma os dados |n/a | |
@@ -18,7 +18,6 @@ Fluxo Principal | Questão: Que Classe... | Resposta | Justificação
 
 Do racional resulta que as classes conceptuais promovidas a classes de software são:
 
-* Utilizador
 * CentroEventos
 
 
