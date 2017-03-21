@@ -32,7 +32,7 @@ Outras classes de software (i.e. Pure Fabrication) identificadas:
 
 ## Diagrama de Sequência ##
 
-![UC3 -SSD.jpg](https://bitbucket.org/repo/goXzaB/images/1223050962-UC3%20-SSD.jpg)
+![UC3 -SSD.jpg](https://bitbucket.org/repo/goXzaB/images/346039357-UC3%20-SSD.jpg)
 
 
 ## Diagrama de Classes ##
