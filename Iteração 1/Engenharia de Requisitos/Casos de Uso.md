@@ -1,6 +1,6 @@
 ##Diagrama de casos de uso
 
-![1.jpg](https://bitbucket.org/repo/goXzaB/images/1377477357-1.jpg)
+![diagrama de casos de uso.jpg](https://bitbucket.org/repo/goXzaB/images/1048457004-diagrama%20de%20casos%20de%20uso.jpg)
 
 ## Casos de uso
 
