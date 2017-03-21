@@ -1,4 +1,4 @@
-# Realização do UC7 - Confirmar RegistoUtilizador #
+# Realização do UC7 - Confirmar Registo Utilizador #
 
 ## Racional ##
 
